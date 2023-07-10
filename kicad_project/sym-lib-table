@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PantallaSerie-rescue")(type "KiCad")(uri "${KIPRJMOD}/PantallaSerie-rescue.kicad_sym")(options "")(descr ""))
+)

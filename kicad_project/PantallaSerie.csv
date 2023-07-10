@@ -1,0 +1,13 @@
+Id,Designator,Package,Quantity,Designation
+2,"C1,C2,C3,C4",CP_Radial_D4.0mm_P2.00mm,4,10uF
+3,C5,CP_Radial_D8.0mm_P3.50mm,1,220uF
+4,J1,USB_A_Female_UE27AC54100,1,USB_A
+5,"J2,J3",PinHeader_1x3_P2.5mm_Drill1.1mm,2,B3B-XH-A_LF__SN_
+6,R1,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,1,100K
+7,R2,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,1,220
+8,R_POT_TRIM1,Potentiometer_Bourns_3299W_Vertical,1,1K
+9,"SW1,SW2",SW_PUSH_6mm_H5mm,2,SW_Push
+10,U1,DIP-16_W7.62mm,1,MAX232N
+11,U2,DIP-28_W7.62mm,1,ATMEGA328P-PU
+12,U3,LCD 20x2,1,NHD-0420H1Z
+13,U4,TO-220-3_Vertical,1,L7805
